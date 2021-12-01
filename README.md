@@ -1,2 +1,2 @@
 # AmericanDream
-AmericanDreamToken
+AmericanDreamToken contract was launched via pinksale.finance launchpad as auto-liquidity generating token with tokenomics. The Founder has minted 100T tokens, burnt 40T and sent 15T for Presale on pinksale and locked liquidity for 180 days on pancakeswap. 35T got locked and 3% is vested monthly for upcoming utility projects,rewards, and liquidity (all unused tokens gets relocked) 5T went to the core team members and starting off with 20T circulating supply. Future utility platforms include DEX/DreamSwap/Staking,DreamChat,DreamLaunch,DreamInvest and many more. Join us and lets change the future together at americandreamtoken.com
